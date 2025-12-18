@@ -1,6 +1,1 @@
-ranup55novo_db_user
-kUR9Rz71Gc7ZuOhn
 
-mongodb+srv://ranup55novo_db_user:<db_password>@cluster0.tryicaw.mongodb.net/?appName=Cluster0
-
-mongodb+srv://ranup55novo_db_user:kUR9Rz71Gc7ZuOhn@cluster0.tryicaw.mongodb.net/?appName=Cluster0
